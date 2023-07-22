@@ -1,3 +1,3 @@
 # Chify bot page
  
-Para para el bot de Discord Chify
+Page for The Discord bot Chify
